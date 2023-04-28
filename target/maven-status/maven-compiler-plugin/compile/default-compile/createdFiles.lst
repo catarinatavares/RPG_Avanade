@@ -1,0 +1,7 @@
+com\avanade\rpggame\controller\PersonagemController.class
+com\avanade\rpggame\model\Heroi.class
+com\avanade\rpggame\model\Monstro.class
+com\avanade\rpggame\model\enuns\TipoHeroi.class
+com\avanade\rpggame\model\Personagem.class
+com\avanade\rpggame\model\enuns\TipoMonstro.class
+com\avanade\rpggame\RpggameApplication.class
